@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>org.zapx</groupId>
-  <artifactId>zapx-core</artifactId>
+  <artifactId>zapx-core-common</artifactId>
   <versioning>
     <versions>
       <version>1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20180926013616</lastUpdated>
+    <lastUpdated>20180926013656</lastUpdated>
   </versioning>
 </metadata>
