@@ -1,2 +1,0 @@
-# mvnrepo
-personal repo
