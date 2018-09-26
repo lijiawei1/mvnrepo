@@ -9,9 +9,13 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>zapx-core-dao</artifactId>
+    <artifactId>zapx-core-mvc</artifactId>
 
     <dependencies>
+        <dependency>
+            <groupId>com.didispace</groupId>
+            <artifactId>spring-boot-starter-swagger</artifactId>
+        </dependency>
         <dependency>
             <groupId>org.zapx</groupId>
             <artifactId>zapx-core-common</artifactId>
@@ -23,5 +27,6 @@
             <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
+
 
 </project>
